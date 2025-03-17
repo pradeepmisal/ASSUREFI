@@ -1,0 +1,7 @@
+anthropic
+flask
+flask-cors
+requests
+python-dotenv
+pathlib
+gunicorn
