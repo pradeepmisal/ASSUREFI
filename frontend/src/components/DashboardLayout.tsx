@@ -157,7 +157,7 @@ const DashboardLayout: React.FC<DashboardLayoutProps> = ({
             {description && <p className="text-muted-foreground text-sm md:text-base hidden md:block">{description}</p>}
           </div>
           <div className="flex items-center gap-3">
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://web.telegram.org/k/#@Asuurfi_Tech_Avinya_bot" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="sm" className="hidden md:flex items-center gap-2">
                 <BellRing className="h-4 w-4" />
                 <span>Live Alerts</span>

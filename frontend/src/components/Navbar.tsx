@@ -47,7 +47,7 @@ const Navbar: React.FC = () => {
                     <p className="text-sm text-foreground/60">Detect vulnerabilities in smart contracts</p>
                   </div>
                 </Link>
-                <Link to="/liquidity-monitor" className="flex items-center p-3 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+                <Link to="/monitor" className="flex items-center p-3 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
                   <BarChart2 className="h-5 w-5 mr-3 text-defi-teal" />
                   <div>
                     <p className="font-medium">Liquidity Monitoring</p>
