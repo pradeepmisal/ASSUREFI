@@ -186,3 +186,12 @@ app.post('/analyze-contract', async (req, res) => {
 app.listen(port, () => {
   console.log(`Ethereum smart contract analyzer service running on port ${port}`);
 });
+
+app.get('/', async (req, res) => {
+  try {
+    return res.json({messgae : "Welcome to Smart contract auditor, Please make request on /analyze-contract route"});
+  } catch (error) {
+    console.error("Request error:", error);
+    res.status(500).json({ error: error.message || "Failed to analyze smart contract" });
+  }
+});
