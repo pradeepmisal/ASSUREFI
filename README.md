@@ -1,6 +1,7 @@
 # Project Setup
 
 This project uses [Vite](https://vitejs.dev/) for fast development and hot module replacement. This guide explains how to clone the repository, install dependencies, and run the project on `localhost:3000`.
+![Project Screenshot](https://media-hosting.imagekit.io/93ee9410feef466c/WhatsApp%20Image%202025-04-06%20at%2001.25.53_79b24236.jpg?Expires=1839297377&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vlhMwfMeoV0WkchlMKL8Kay2M48EyKSpHpyL9QehZxHMno40wtqafWcjd~nNt9vnuXWiA0V~mX5giYjqhO04RQs2OLkrt1Lmxv-xB9NYxU-P~Z36PD3Pp3HQ~oULbqtMZbX4Otwfb6EY0tC0LWf9iVyG5TB2JcXM2h0n39mfd1iiPYR0HN6faRAbV90Eb~R7HHJycWWHyvUx1vmV-CIptGeI~MSt6m97pSDhH8Wkp2UTYcxCRMn9M~Xym4hPt8o1rrefOlW3k6mjWR3G2R8pmp83EE7n4C1jkW0inM12DZW3J~0MOPNVserrgP-~HFCqvPsJooiIOp4LP4mu-SiZHw__)
 
 ## Prerequisites
 
