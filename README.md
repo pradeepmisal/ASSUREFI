@@ -1,3 +1,5 @@
+[![Hackathon Win](https://i.postimg.cc/cHchLV3h/Black-Technology-Linked-In-Banner-1.png)](https://openservai.hackerearth.com/)
+
 # Project Setup
 
 This project uses [Vite](https://vitejs.dev/) for fast development and hot module replacement. This guide explains how to clone the repository, install dependencies, and run the project on `localhost:3000`.
