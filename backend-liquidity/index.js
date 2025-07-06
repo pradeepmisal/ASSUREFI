@@ -4,7 +4,7 @@ const { z } = require("zod");
 // Initialize the agent
 const agent = new Agent({
   systemPrompt: 'You are a helpful assistant.',
-  apiKey: '188b898005eb4b31a7cccf8fd47e87c4'
+  apiKey: ' '
 });
 
 // Add a liquidity monitoring capability
