@@ -6,12 +6,12 @@ require('dotenv').config();
 // Create the agent with your OpenAI API key (required for process())
 const agent = new Agent({
   systemPrompt: 'You are an agent that analyzes Ethereum smart contracts for security vulnerabilities',
-  apiKey: "19e9744583aa48a7b02aaba24dda618f"
+  apiKey: " "
 });
 
 // API Keys from environment variables
-const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || 'C1H29S3J1BQA3M4UMU647APSMN961ACCMY';
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || 'AIzaSyA6M-6Ad8ZSIfDN0X5uuTMhNCz6Nr86P3U';
+const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || '';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 
 // Initialize Gemini API
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
