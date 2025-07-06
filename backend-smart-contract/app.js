@@ -11,8 +11,8 @@ app.use(cors());
 app.use(express.json());
 
 // API Keys
-const ETHERSCAN_API_KEY = 'C1H29S3J1BQA3M4UMU647APSMN961ACCMY';
-const GEMINI_API_KEY = 'AIzaSyA6M-6Ad8ZSIfDN0X5uuTMhNCz6Nr86P3U';
+const ETHERSCAN_API_KEY = ' ';
+const GEMINI_API_KEY = ' ';
 
 // Initialize Gemini API
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
